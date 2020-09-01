@@ -17,6 +17,7 @@ public class Main {
                     break;
                 case 2:
                     multiplicationMatrixByConstant(createMatrix());
+		System.out.println("");
                     break;
                 case 3:
                     printMatrix(multiplyMatrixByMatrix(createMatrix(), createMatrix()));
