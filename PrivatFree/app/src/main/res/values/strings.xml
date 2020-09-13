@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrivatFree</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="datetemp">dateee</string>
+    <string name="init_time">0:00:00</string>
+</resources>

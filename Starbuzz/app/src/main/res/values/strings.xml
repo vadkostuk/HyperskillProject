@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="logodescrition">logo og coffee shop</string>
+    <string-array name="options">
+        <item>Drink</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string-array name="coffee_drinks">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+    </string-array>
+</resources>
